@@ -458,7 +458,7 @@ async def main():
         await bot.add_cog(TicketSystem(bot))
         
         # Bot token - CHANGE THIS TO YOUR TICKET BOT TOKEN
-        TOKEN = "MTQxOTI3NjU1Mzg5MTg3MjgxOQ.GYim0Q.J72D7ONMapW-70ZUDQCP8fZgYKkg5xEZgQ2fz0"
+        TOKEN = "MTQxOTI3NjU1Mzg5MTg3MjgxOQ.GZ8JX8.ai6flV_exE0dat8bDpKCe7SQ0THSRs_QShQE3Y"
         
         # Start the bot
         await bot.start(TOKEN)
